@@ -13,8 +13,8 @@ I started with nmap to scan the target machine to identify the vulnerabilities a
 ```bash
 nmap -sV -vv --script vuln 10.49.*7*.**
 ```
-![Nmap scan Results](./assets/nmap_report.png)
-![Nmap final Results](./assets/namp_report2.png)
+![Nmap scan Results](./assets/nmap_report1.png)
+![Nmap final Results](./assets/nmap_report2.png)
 
 *Figure 1 & 2 : Got the vulnerability--> 
  smb-vuln-ms17-010: 
