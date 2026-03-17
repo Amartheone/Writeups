@@ -1,6 +1,6 @@
 # Tryhackme: Blue (lab) writeup
 **Date:** March 13,2026 <br>
-**Author:** D.Amarnath Patro
+**Author:** D.Amarnath Patro <br>
 **Target ip:** 10.49.!45.**
 
 ---
