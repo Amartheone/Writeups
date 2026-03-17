@@ -36,7 +36,7 @@ In every writeup, I aim to cover the full lifecycle of a penetration test:
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** ![My Linkedin handle](https://www.linkedin.com/in/amarnathpatro/)
-* **TryHackMe Profile:** ![My Tryhackme acc](https://tryhackme.com/p/amartheone)
+* **LinkedIn:** [My Linkedin handle](https://www.linkedin.com/in/amarnathpatro/)
+* **TryHackMe Profile:** [My Tryhackme acc](https://tryhackme.com/p/amartheone)
 
 > *"Knowledge is power, but sharing it is a superpower."*
